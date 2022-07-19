@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media-exp1.licdn.com/dms/image/C4E03AQECEkGI4yHTig/profile-displayphoto-shrink_800_800/0/1593432629813?e=1663804800&v=beta&t=G43kq6rnCET_MXdQkKvQKFlAAmmj9qPThvQ-t6Yo0dA"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -50,9 +44,4 @@
 <img href="https://raw.githubusercontent.com/DragoslavIvkovic/DragoslavIvkovic/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+Profile Readme Generator
